@@ -1,5 +1,7 @@
-  <xml>
-	  <fullname> "Prokopovich Marina" </fullname>
-	  <age> "26" </age>
-	  <numberofpets> "no" </numberofpets>
-	  <futuredesiredsalary> "2000$" </futuredesiredsalary>
+<?xml version="1.0" encoding="UTF-8"?> 
+ <xml>
+          <fullname> "Prokopovich Marina" </fullname>
+          <age> "26" </age>
+          <numberofpets> "no" </numberofpets>
+          <futuredesiredsalary> "2000$" </futuredesiredsalary>
+               </xml>
