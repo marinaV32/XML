@@ -1,6 +1,8 @@
-<xml>
-	<favoritemovie> "oath" </favoritemovie>
-	<favoriteseries> "from outside" </favoriteseries>
-	<favoritefood> "pasta" </favoritefood>
-	<favoriteseason> "spring" </favoriteseason>
-	<travelcountry> "Greece" </travelcountry>
+<?xml version="1.0" encoding="UTF-8"?> 
+ <xml>
+        <favoritemovie> "oath" </favoritemovie>
+        <favoriteseries> "from outside" </favoriteseries>
+        <favoritefood> "pasta" </favoritefood>
+        <favoriteseason> "spring" </favoriteseason>
+        <travelcountry> "Greece" </travelcountry>
+ </xml>
