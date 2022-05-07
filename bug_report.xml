@@ -1,11 +1,21 @@
-<?xml version=«1.0» encoding=«windows-1251»?>
+<?xml version="1.0" encoding="UTF-8"?> 
+<bugreport>
+<Name> structure bug report </Name>
+<IssueTitle> Pop-up window does not disappear until the date is not changed </IssueTitle> 
+<IssueType> Bug </IssueType>
+<Priority> Low </Priority>
+<IssueStatus> Blocked </IssueStatus>
+<Author> Marina Prokopovich </Author>
+<Severity> " " </Severity>
+<Build> " " </Build>
+<Environment> " " </Environment>
+<Name2> Issue Description, Steps to reproduce </Name2>
+<step1> Select any dish </step1>
+<step2> Go to the basket </step2> 
+<step3> Select a date next to the last delivery date in the menu(e.x. menu 8-11 Nov, select 15 Nov) </step3>
+<step4> After the pop-up 'Delivery up t 14.11'appears click on the 'Change a date' button </step4>
+<step5> Look at the pop-up </step5>
 
-<Файл ИдФайл=«123»>
-
-<Документ Дата=«01.01.2000» Дата2=«01.02.2000»>
-
-<АдрРФ Код=«12» />
-
-</Документ>
-
-</Файл>
+<Expectedresult> The pop-up 'Delivery up to 14.11' does not appear </Expectedresult>
+<Actualresult> The Pop-up remains until the date is not changed to the suitable one </Actualresult>
+</bugreport>
